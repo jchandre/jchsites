@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá, eu sou o André (JCH Sites)
 
-<!--
-**jchsites/jchsites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo há mais de **10 anos** com **análise de requisitos, gestão orçamentária e desenvolvimento de sistemas web**, unindo:
 
-Here are some ideas to get you started:
+- 🧠 **Experiência funcional** em gestão pública (orçamento, PAC, DAQ, DNIT etc.)
+- 🖥️ **Desenvolvimento web** em PHP, MySQL, HTML, CSS, JS
+- ⚙️ **Automação de rotinas** e integração entre planilhas, sistemas e painéis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 Áreas em que atuo
+
+- **Sistemas de monitoramento e gestão** (obras, empreendimentos, orçamento)
+- **Dashboards e indicadores** (PHP, MySQL, Power BI)
+- **Gestão orçamentária e financeira** (PLOA, LOA, PAC, investimentos)
+- **Plataformas educacionais** (Moodle, cursos online, tema Adaptable)
+- **Hospedagem e infraestrutura** (WHM, cPanel, domínios múltiplos, deploy via Git)
+
+---
+
+## 🔧 Tecnologias
+
+- **Backend:** PHP, MySQL/MariaDB
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
+- **Infra:** WHM/cPanel, VPS, Git, Git hooks, SSH
+- **Outros:** Moodle, WordPress, automações com planilhas
+
+---
+
+## 📂 Alguns projetos
+
+- 🛶 **MONITORA DAQ** – sistema web para monitoramento de empreendimentos da DAQ  
+  `PHP + MySQL + Bootstrap + deploy automático via Git`
+
+- 🧮 **Painel de Gestão Orçamentária / Atlas** – tela unificada para PLOA, execução, farol de investimentos
+
+- 🌐 **Sites institucionais e educacionais** – múltiplos domínios em um único VPS, integração com cursos e painéis.
+
+---
+
+## ✉️ Contato
+
+- 📧 **E-mail:** jchsites@gmail.com  
+- 🌍 **Principais domínios:** atlasgoinfra.com.br, egpdaq.com.br, monitoradaq.eng.br, paeenfoco2025.org, vidadigitalti.com.br
+
