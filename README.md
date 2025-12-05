@@ -1,5 +1,3 @@
-# Olá, eu sou o André, 
-
 Atuo há mais de **10 anos** com **análise de requisitos, gestão orçamentária e desenvolvimento de sistemas web**, unindo:
 
 - 🧠 **Experiência funcional** em gestão pública (Orçamento Público, PAC, Infraestrutura de Transportes, DNIT etc.)
